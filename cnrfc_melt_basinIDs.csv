@@ -1,0 +1,182 @@
+basin_8,river
+PLLC1HUF,Feather
+PLLC1HLF,Feather
+PLLC1HTF,Feather
+IIFC1HUF,Feather
+IIFC1HLF,Feather
+IIFC1HTF,Feather
+MFTC1HUF,Feather
+MFTC1HLF,Feather
+MFTC1HTF,Feather
+MRMC1LUF,Feather
+MRMC1LLF,Feather
+MRMC1LTF,Feather
+SCBC1HUF,Feather
+SCBC1HLF,Feather
+SCBC1HTF,Feather
+NFEC1LUF,Feather
+NFEC1LLF,Feather
+NFEC1LTF,Feather
+PLGC1LUF,Feather
+PLGC1LLF,Feather
+PLGC1LTF,Feather
+WBGC1HUF,Feather
+WBGC1HLF,Feather
+WBGC1HTF,Feather
+ORDC1LUF,Feather
+ORDC1LLF,Feather
+ORDC1LTF,Feather
+GYRC1HUF,Yuba
+GYRC1HLF,Yuba
+GYRC1HTF,Yuba
+JKRC1HOF,Yuba
+JKRC1HTF,Yuba
+OURC1LUF,Yuba
+OURC1LLF,Yuba
+OURC1LTF,Yuba
+NBBC1LUF,Yuba
+NBBC1LLF,Yuba
+NBBC1LTF,Yuba
+BWKC1HOF,Yuba
+BWKC1HTF,Yuba
+FOCC1HOF,Yuba
+FOCC1HTF,Yuba
+SUAC1LOF,Yuba
+SUAC1LTF,Yuba
+JNSC1LUF,Yuba
+JNSC1LLF,Yuba
+JNSC1LTF,Yuba
+HLEC1LOF,Yuba
+HLEC1LTF,Yuba
+NFDC1HLF,American
+NFDC1HUF,American
+NFDC1HTF,American
+FMDC1HOF,American
+FMDC1HTF,American
+NMFC1HUF,American
+NMFC1HLF,American
+NMFC1HTF,American
+RBBC1HOF,American
+RBBC1HTF,American
+HLLC1LUF,American
+HLLC1LLF,American
+HLLC1LTF,American
+LNLC1HOF,American
+LNLC1HTF,American
+RRGC1LOF,American
+RRGC1LTF,American
+RUFC1LUF,American
+RUFC1LLF,American
+RUFC1LTF,American
+MFAC1LUF,American
+MFAC1LLF,American
+MFAC1LTF,American
+ICHC1HOF,American
+ICHC1HTF,American
+UNVC1HUF,American
+UNVC1HLF,American
+UNVC1HTF,American
+SVCC1LUF,American
+SVCC1LLF,American
+SVCC1LTF,American
+AKYC1HUF,American
+AKYC1HLF,American
+AKYC1HTF,American
+CBAC1LUF,American
+CBAC1LLF,American
+CBAC1LTF,American
+CMPC1HUF,Mokelumne
+CMPC1HMF,Mokelumne
+CMPC1HTF,Mokelumne
+NDVC1HUF,Stanislaus
+NDVC1HMF,Stanislaus
+NDVC1HTF,Stanislaus
+NSWC1HUF,Stanislaus
+NSWC1HMF,Stanislaus
+NSWC1HTF,Stanislaus
+AVYC1LMF,Stanislaus
+AVYC1LTF,Stanislaus
+NMSC1LUF,Stanislaus
+NMSC1LMF,Stanislaus
+NMSC1LTF,Stanislaus
+HETC1HUF,Tuolumne
+HETC1HMF,Tuolumne
+HETC1HTF,Tuolumne
+LNRC1HUF,Tuolumne
+LNRC1HMF,Tuolumne
+LNRC1HTF,Tuolumne
+CHVC1HUF,Tuolumne
+CHVC1HMF,Tuolumne
+CHVC1HTF,Tuolumne
+NDPC1LUF,Tuolumne
+NDPC1LMF,Tuolumne
+NDPC1LTF,Tuolumne
+HPIC1HUF,Merced
+HPIC1HMF,Merced
+HPIC1HTF,Merced
+POHC1LUF,Merced
+POHC1LMF,Merced
+POHC1LTF,Merced
+EXQC1LUF,Merced
+EXQC1LMF,Merced
+EXQC1LTF,Merced
+FRAC1HUF,San Joaquin
+FRAC1HMF,San Joaquin
+FRAC1HTF,San Joaquin
+PFTC1HUF,Kings
+PFTC1HMF,Kings
+PFTC1HTF,Kings
+KTRC1HUF,Kaweah
+KTRC1HMF,Kaweah
+KTRC1HTF,Kaweah
+TMDC1LUF,Kaweah
+TMDC1LMF,Kaweah
+TMDC1LTF,Kaweah
+SCSC1HUF,Tule
+SCSC1HMF,Tule
+SCSC1HTF,Tule
+KKVC1HUF,Kern
+KKVC1HMF,Kern
+KKVC1HTF,Kern
+SKRC1HUF,Kern
+SKRC1HMF,Kern
+SKRC1HTF,Kern
+ISAC1LUF,Kern
+ISAC1LMF,Kern
+ISAC1LTF,Kern
+TRCC1LOF,Truckee River
+TRCC1LTF,Truckee River
+TAHC1HOF,Truckee River
+TAHC1HTF,Truckee River
+DNRC1HOF,Donner Creek
+DNRC1HTF,Donner Creek
+MTSC1HUF,Martis Creek
+MTSC1HLF,Martis Creek
+MTSC1HTF,Martis Creek
+PSRC1HUF,Prosser Creek
+PSRC1HLF,Prosser Creek
+PSRC1HTF,Prosser Creek
+ILAC1HOF,Independence Creek
+ILAC1HTF,Independence Creek
+SGNC1HOF,Sage Hen Creek
+SGNC1HTF,Sage Hen Creek
+STPC1LUF,Sage Hen Creek
+STPC1LLF,Little Truckee
+STPC1LTF,Little Truckee
+BCAC1LUF,Little Truckee
+BCAC1LLF,Little Truckee
+BCAC1LTF,Little Truckee
+FARC1LUF,Farad Creek
+FARC1LLF,Farad Creek
+FARC1LTF,Farad Creek
+WOOC1HOF,West Fork Carson
+WOOC1HTF,West Fork Carson
+CEMC1HUF,East Fork Carson
+CEMC1HLF,East Fork Carson
+CEMC1HTF,East Fork Carson
+WWBC1HUF,West Walker
+WWBC1HLF,West Walker
+WWBC1HTF,West Walker
+BPRC1HUF,EastSierra
+BPRC1HLF,EastSierra
+BPRC1HTF,EastSierra

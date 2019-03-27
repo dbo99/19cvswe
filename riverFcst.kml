@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<NetworkLink id="ID">
+<name>River Guidance Points</name>
+<description><![CDATA[River Guidance <br><a href="http://www.cnrfc.noaa.gov/rfc_guidance.php">CNRFC River Forecast Web Page</a>]]></description>
+<Link>
+<href>http://www.cnrfc.noaa.gov/data/kml/riverFcst_data.kml</href>
+<refreshMode>onInterval</refreshMode>
+<refreshInterval>600</refreshInterval>
+</Link>
+</NetworkLink>
+</kml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<NetworkLink id="ID">
+<name>Ensemble Forecast Locations</name>
+<description><![CDATA[Water Resources<br><a href="http://www.cnrfc.noaa.gov/water_resources_update.php">Google Maps Interface</a>]]></description>
+<Link>
+<href>http://www.cnrfc.noaa.gov/data/kml/ensPoints_ge.kml</href>
+<refreshMode>onInterval</refreshMode>
+<refreshInterval>600</refreshInterval>
+</Link>
+</NetworkLink>
+</kml>
