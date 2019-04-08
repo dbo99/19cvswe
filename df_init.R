@@ -1,0 +1,79 @@
+#df_swe <- data.frame(nwscode = character(),
+#                     value = numeric(), 
+#                     location = character(),
+#                     basin = character(), 
+#                     unit  = character(),
+#                     calc = character(),
+#                     zdate = character(),
+#                     param = character(),
+#                     stringsAsFactors = FALSE) #)
+#
+#df_sca <- data.frame(nwscode = character(),
+#                     value = numeric(), 
+#                     location = character(),
+#                     basin = character(), 
+#                     unit  = character(),
+#                     calc = character(),
+#                     zdate = character(),
+#                     param = character(),
+#                     stringsAsFactors = FALSE) #)
+#
+#df_se <- data.frame(nwscode = character(),
+#                     value = numeric(), 
+#                     location = character(),
+#                     basin = character(), 
+#                     unit  = character(),
+#                     calc = character(),
+#                     zdate = character(),
+#                     param = character(),
+#                     stringsAsFactors = FALSE) #)
+#
+#df_sm <- data.frame(nwscode = character(),
+#                     value = numeric(), 
+#                     location = character(),
+#                     basin = character(), 
+#                     unit  = character(),
+#                     calc = character(),
+#                     zdate = character(),
+#                     param = character(),
+#                     stringsAsFactors = FALSE) #)
+#
+#df_sb<- data.frame(nwscode = character(),
+#                     value = numeric(), 
+#                     location = character(),
+#                     basin = character(), 
+#                     unit  = character(),
+#                     calc = character(),
+#                     zdate = character(),
+#                     param = character(),
+#                     stringsAsFactors = FALSE) #)
+#
+#df_sd <- data.frame(nwscode = character(),
+#                     value = numeric(), 
+#                     location = character(),
+#                     basin = character(), 
+#                     unit  = character(),
+#                     calc = character(),
+#                     zdate = character(),
+#                     param = character(),
+#                     stringsAsFactors = FALSE) #)
+#
+#df_su <- data.frame(nwscode = character(),
+#                    value = numeric(), 
+#                    location = character(),
+#                    basin = character(), 
+#                    unit  = character(),
+#                    calc = character(),
+#                    zdate = character(),
+#                    param = character(),
+#                    stringsAsFactors = FALSE) #)
+
+df <- data.frame(nwscodenohrsc = character(),
+                    value = numeric(), 
+                    location = character(),
+                    basin = character(), 
+                    unit  = character(),
+                    calc = character(),
+                    zdate = character(),
+                    param = character(),
+                    stringsAsFactors = FALSE) #)
