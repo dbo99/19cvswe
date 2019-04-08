@@ -62,8 +62,8 @@ for (i in 1:length(dates)) {
                                   url7, url8, url9)
     # scrape
     #if (url8 == 1 | url8 == 5 | url8 == 10 | url8 == 15 | url8 == 20 | url8 == 25 ) { Sys.sleep(0.5) }
-    if((num %% 2) == 0) {Sys.sleep(1) }
-    if((num %% 9) == 0) {Sys.sleep(3) }
+    if((url8 %% 2) == 0) {Sys.sleep(1) }
+    if((url8 %% 9) == 0) {Sys.sleep(3) }
    # if (url8 == 3) { Sys.sleep(3.5) }
 
     scrapedtext = html_text(html_node(read_html(urlfin),".notes"))
@@ -78,4 +78,4 @@ for (i in 1:length(dates)) {
         }  
 }
 
-write_csv(df, "wy2018_swe.csv")
+write_csv(df, "wy2019_allp_thruApr7.csv")
