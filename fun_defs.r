@@ -34,6 +34,10 @@ readAllBlocks = function(index, text){
   return(blocks)
 }
 
+normcolnams <- function(df) {
+       df <- df %>% transmute(value = Value, numval = as.double(value), calc = Calc, unit = as.factor(Units), location = Location, nwscode = as.factor(Code), basin = as.factor(Basin), param = as.factor(param), date = ymd(date))
+}
+
 
 #####################################
 ### time classifications ##
