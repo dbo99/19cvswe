@@ -8,13 +8,13 @@ source("nwscode_to_rivgroup.r")
 
 ### start with saved data.frame
 
-df <- #read_csv("nohrsc_thru_04.11.2019.csv") %>%
-  read_csv("3_2019.csv") %>%
-  normcolnams() %>% 
+df <- read_csv("nohrsc_thru_04.11.2019.csv") %>%
+  #read_csv("3_2019.csv") %>%
+  #normcolnams() %>% 
   add_timeclasses() %>%
   mutate(nwscode = as.factor(nwscode), unit = as.factor(unit), year = as.integer(year(date)), dowy = as.integer(dowy),
          yday = as.integer(yday), wy = as.factor(wy), wm = as.integer(wm), param = as.factor(param),
-         year = as.factor(year), basin = as.character(basin)) #%>% select(-X1)
+         year = as.factor(year), basin = as.character(basin)) %>% select(-X1)
 
 #df_new <- 
 
