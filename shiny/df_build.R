@@ -12,8 +12,8 @@ df <- read_csv("nohrsc_thru_04.11.2019.csv") %>%
       #normcolnams() %>% 
       add_timeclasses() %>%
       mutate(nwscode = as.factor(nwscode), unit = as.factor(unit), year = as.integer(year(date)), dowy = as.integer(dowy),
-                     yday = as.integer(yday), wy = as.integer(wy), wm = as.integer(wm), param = as.factor(param),
-                     year = as.integer(year), basin = as.character(basin)) #%>% select(-X1)
+                     yday = as.integer(yday), wy = as.factor(wy), wm = as.integer(wm), param = as.factor(param),
+                     year = as.factor(year), basin = as.character(basin)) #%>% select(-X1)
 
 #tibble(df)
 
