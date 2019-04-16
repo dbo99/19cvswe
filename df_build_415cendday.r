@@ -19,7 +19,7 @@ df_yr <- as.data.frame(fread("leap_yrs.csv"))
 
 df2 <- df
 
-df2$yday <- df2$yday[match(df$year,df2$year)]
+df2$yday <- df_yr$yday[match(df2$year,df_yr$year)]
 
 
 d$y2 <- d2$y2[match(d1$x,d2$x)]
