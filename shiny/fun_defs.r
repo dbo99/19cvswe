@@ -1,22 +1,22 @@
 # Read an individual block
 readBlock = function(text){
-
+  
   basin = str_replace(string = text[1], pattern = "^:", replacement = "")
   block = text[-1]
   code = str_match(block[1], "[A-Z0-9]{5}")[1]
   block = str_replace(block, "^(:?[^ ]+|:)", "")
-
+  
   block = str_replace(block, "%", "(perc)")
   block = str_replace(block, "5633' to 5998", "5633' to 5998'")
   block = str_replace(block, "4400' to 5000", "4400' to 5000'") 
   block = str_replace(block, "0784' to 5000", "0784' to 5000'") 
-
-
+  
+  
   block = str_replace_all(block, "[;():]", "|")
   block = trimws(block)
   block = str_split(block,"\\|")
   block = as.data.frame(do.call(rbind, block))
-  colnames(block) = c("value","calc", "unit", "location")
+  colnames(block) = c("value","calc", "unit", "basin_zone")
   block$nwscode = code
   block$basin = basin
   return(block)
@@ -61,8 +61,9 @@ normcolnams <- function(df) {
 
 add_timeclasses <- function(df) {
   df <- df %>% mutate(year = year(date), yday = yday(date))
-  df_yr <- df %>% group_by(year) %>%  summarize(cumdoy= max(yday, na.rm=T))
-  df <- merge(df, df_yr, by.x = "year", by.y = "year", all.x=TRUE)
+  #df_yr <- df %>% group_by(year) %>%  summarize(cumdoy= max(yday, na.rm=T)) too slow
+  df_yr <- as.data.frame(fread("leap_yrs.csv"))
+  df <- left_join(df, df_yr, by.x = "year", by.y = "year", all.x=TRUE)
   df <- df %>% mutate(dowy =   ifelse(cumdoy > 365, 
                                       ifelse(yday>274, yday-274, yday+92), 
                                       ifelse(yday>273, yday-273, yday+92)),
