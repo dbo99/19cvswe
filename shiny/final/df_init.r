@@ -1,0 +1,19 @@
+df <- data.frame(nwscodenohrsc = character(),
+                 value = numeric(), 
+                 location = character(),
+                 basin = character(), 
+                 unit  = character(),
+                 calc = character(),
+                 zdate = character(),
+                 param = character(),
+                 stringsAsFactors = FALSE) #)
+
+dftemp_i <- data.frame(nwscodenohrsc = character(),
+                 value = numeric(), 
+                 location = character(),
+                 basin = character(), 
+                 unit  = character(),
+                 calc = character(),
+                 zdate = character(),
+                 param = character(),
+                 stringsAsFactors = FALSE) #)
