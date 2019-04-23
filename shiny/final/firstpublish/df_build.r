@@ -1,9 +1,9 @@
 rm(list = ls()) 
-#setwd("~/Documents/shiny_nohrsc/final")
+#setwd("~/R/proj/nohrsc/shiny/final/firstpublish")
 #setwd("~/R/proj/nohrsc/shiny/final")
 source("libs.r")
 source("fun_defs.r")
-#setwd("~/Documents/shiny_nohrsc/final/firstpubli")
+#setwd("~/Documents/shiny_nohrsc/final/firstpublish")
 #setwd("~/R/proj/nohrsc/shiny/final/data")
 
 
@@ -15,7 +15,12 @@ source("fun_defs.r")
 #df <- distinct(df)
 #write_csv(df, "fullthruapr21.csv")
 
-
+#df <- unzip("fullthruapr21.zip") 
+#df <- as.data.frame(fread("fullthruapr21.csv")) %>% mutate(date = as.character(date), date = ymd(date), wy = 
+#                                                       water_year(date), yday = yday(date))
+#df <- df %>% filter(wy >2016)
+#write_csv(df, "wy2017_on.csv")
+#
 
 dowy <- as.data.frame(fread("daily_dowy.csv"))
 nwscode_to_rivgroup <- as.data.frame(fread("nwscode_to_rivgroup.csv"))
@@ -23,18 +28,17 @@ df_cumdoy <- read_csv("leap_yrs.csv")
 dowy <- read_csv("daily_dowy.csv")
 #df <- unzip("archivewith2011.zip")
 #df <- unzip("archivewith2011_wy17on.csv.zip")
-df <- unzip("fullthruapr21.csv.zip")
+#df <- unzip("fullthruapr21.zip")
+#df <- unzip("wy2017_on.zip")
 #df <- as.data.frame(fread("archivewith2011.csv"))
 #df <- as.data.frame(fread("archivewith2011_wy17on.csv")) #just for dev
-df <- as.data.frame(fread("fullthruapr21.csv"))
-as_tibble(tail(df))
-tail(df)
-
-df <- df %>% mutate(date = ymd(date))
-df <- df %>% mutate(year = year(date))
-as_tibble(df)
+#df <- as.data.frame(fread("fullthruapr21.csv"))
+df <- as.data.frame(fread("wy2017_on.csv"))
 
 
+df <- df %>% mutate(date = as.character(date)) %>% mutate(date = ymd(date))
+df <- df %>% mutate(year = year(date), yday = yday(date))
+#as_tibble(df)
 
 
 #setwd("~/Documents/shiny_nohrsc/final")
@@ -64,7 +68,7 @@ df <- df %>% mutate(nws_basin_code = as.factor(paste0(basin," (", nwscode, ")"))
 
 
 
-ggplot(df %>% filter(wy == "2010" | wy == "2011" | wy == "2012", param == "swe", nwscode == "FRAC1"), aes(date, numval)) + geom_line()
+#ggplot(df %>% filter(wy == "2010" | wy == "2011" | wy == "2012", param == "swe", nwscode == "FRAC1"), aes(date, numval)) + geom_line()
 rm(addparamnam, df_cumdoy, nwscode_to_rivgroup)
 
 #setwd("~/R/proj/nohrsc/shiny/final/data")

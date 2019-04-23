@@ -18,8 +18,8 @@ paramnams <- c("Snow Water Equivalent [in]",
                "Snow Surface Sublimation [in]" )
 
 
-start_date <- ymd("2019-04-10")
-end_date <- ymd("2019-04-21")
+start_date <- ymd("2019-04-22")
+end_date <- ymd("2019-04-22")
 
 dates <- seq(start_date, end_date, by = "days") %>% rev()
 
@@ -103,7 +103,8 @@ for (i in 1:length(dates)) {
 df <- df %>% mutate(numval = as.character(value), numval = as.double(numval)) %>% select(-calc, -unit, -value)
 as_tibble(df)
 #df <- data.frame(df)
-filename <- paste0(month(start_date), "_", year(start_date), ".csv")
+#filename <- paste0(month(start_date), "_", year(start_date), ".csv")
+filename <- paste0(Sys.Date(), ".csv")
 write_csv(df,filename)
 #write_csv(data.frame(scrapedtext),"2009.06.01_debug.csv")
 

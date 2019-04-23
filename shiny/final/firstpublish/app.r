@@ -1,3 +1,4 @@
+#setwd("~/R/proj/nohrsc/shiny/final/firstpublish")
 #Sys.setenv(TZ="America/Los_Angeles")
 #setwd("~/R/proj/nohrsc/shiny")
 #setwd("~/Documents/shiny_nohrsc/final")
@@ -21,12 +22,12 @@ ui <-
       
       column(3,dateInput('end_date',
                 label = 'end day',
-                value = Sys.Date()-20)),
+                value = Sys.Date()-1)),
       
       column(3,dateInput('map_date',
                          label = 'map day',
-                         value = Sys.Date()-20)),
-      column(3,actionButton("goButton", "run"))),
+                         value = Sys.Date()-1))),
+     # column(3,actionButton("goButton", "run"))),
       
       selectizeInput(
         "nws_basin_code", "nwsid", choices = unique(df$nws_basin_code), 
@@ -38,7 +39,7 @@ ui <-
       
       #   uiOutput("secondSelection"),
       fluidRow(
-      column(5, checkboxGroupInput("parameter", "ts parameter [24-hr avg]",                
+      column(5, checkboxGroupInput("parameter", "plot parameter [24-hr avg]",                
                          choices = unique(df$paramnam),
                          selected = "water equivalent (swe)") ),
       column(5, radioButtons("map_param", "map parameter",                
@@ -245,9 +246,11 @@ server <- function(input, output) {
       
       m <- mapview(sf_ebasin_kml["numval"], burst = TRUE, hide = TRUE, col.regions = viridisLite::viridis, 
                    alpha.regions = 0.4,  map.types = maptypes,
-                   popup = popupTable(sf_ebasin_kml, zcol = c("nws_basin_code", "date", "numval")), 
+                   popup = popupTable(sf_ebasin_kml, zcol = c("nws_basin_code", "date", "numval", "paramnam")), 
                    layer.name = "nohrsc daily data")   +
-         mapview(sf_ebasin_kml_hlite["numval"], color = "red", alpha.regions = 0.0, 
+         mapview(sf_ebasin_kml_hlite["numval"], color = "red", 
+                 alpha.regions = 0.0, 
+                 popup = popupTable(sf_ebasin_kml_hlite, zcol = c("nws_basin_code", "date", "numval", "paramnam")),
                  layer.name = "selected basin(s' ) outline", legend = FALSE) 
       
     m@map = m@map %>% 
@@ -266,7 +269,14 @@ server <- function(input, output) {
                    layers = "nexrad-n0r-900913",
                    options = WMSTileOptions(format = "image/png", transparent = TRUE),
                    attribution = "Weather data  2012 IEM Nexrad") %>%
-
+      
+     # addWMSTiles( group = grp[3],baseUrl = 
+     #                "https://gibs.earthdata.nasa.gov/twms/epsg4326/best/twms.cgi", 
+     #              #"https://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0q.cgi?",
+     #              layers = "0",
+     #              options = WMSTileOptions(format = "image/png", transparent = TRUE),
+     #              attribution = "NASA GIBS imagery") %>%
+#
 
       
       
