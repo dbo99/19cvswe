@@ -1,0 +1,358 @@
+Basin,DESCRIPTION
+EFBC1,Elderberry Forebay
+CSKC1,Castaic Lake
+CMIC1,Coyote Ck - CA Hwy 237
+FMDC1,MF American - French Meadows
+NMFC1,NF MF American R nr Foresthill
+NFDC1,NF American - North Fork Dam
+MFAC1,MF American - Foresthill
+LNLC1,Loon Lake - Meeks Bay
+HLLC1,Rubicon River - Hell Hole Resvr
+RRGC1,SF Rubicon River blo Gerle Ck
+RUFC1,Rubicon R nr Foresthill
+UNVC1,Silver Ck - Union Valley Reservoir
+SVCC1,Silver Ck blo Camino Dam
+ICHC1,Ice House Res nr Kyburz
+NIMC1,American - Nimbus Dam
+FOLC1,American River - Folsom Dam
+CBAC1,SF American - Placerville
+AKYC1,SF American nr Kyburz
+RBBC1,Rubicon R at Rockbound Tunnel Inlet
+MUPC1,Middle Ck - Upper Lake nr
+HOUC1,NF Cache Ck - Hough Springs
+INVC1,NF Cache Ck - Indian Valley Dam
+SKPC1,Scotts Ck - Lakeport nr
+HCHC1,Bear Ck - Holsten Chimney
+CLKC1,Cache Creek - Clear Lake
+KCVC1,Kelsey Ck - Kelseyville nr
+RMSC1,Cache Ck - Rumsey
+YLOC1,Cache Ck - Yolo
+PCGC1,Putah Ck - Guenoc
+LBEC1,Putah Ck - Lake Berryessa
+ALQC1,Alamo Canal nr Pleasanton
+LRZC1,San Lorenzo Ck - Hayward
+NILC1,Alameda Ck - Niles
+ACSC1,San Antonio Ck - Sunol
+AWEC1,Alameda Ck - Welch Ck
+CVQC1,Calaveras Reservoir
+SFCC1,San Francisquito Ck - Stanford
+ADLC1,Arroyo De La Laguna
+MPTC1,Alameda ck abv Diversion
+LVKC1,Arroyo Valle - Livermore
+AHOC1,Arroyo Honda nr San Jose
+CYEC1,Coyote Ck - Edenvale
+BTEC1,San Lorenzo River - Big Trees
+LRRC1,San Lorenzo River - Santa Cruz
+COYC1,Coyote Ck - Coyote Res
+ANDC1,Coyote Ck - Anderson Res
+PHOC1,Pacheco Ck - Dunneville
+AROC1,Pajaro - Chittenden
+SPRC1,Salinas River nr Spreckels
+HOSC1,San Benito - Hollister
+TESC1,Tres Pinos Ck - Tres Pinos
+RDRC1,Carmel - Robles Del Rio
+BSRC1,Big Sur nr Big Sur
+PIIC1,San Benito - Willow Creek
+SOLC1,Arroyo Seco - Soledad
+CHLC1,Salinas River nr Chular
+KCYC1,San Lorenzo Ck - Bitterwater
+LWDC1,San Antonio - Lockwood
+SDDC1,Salinas River - Soledad
+NBYC1,Nacimiento - Sapaque
+SNRC1,San Antonio - San Antonio Dam
+NACC1,Nacimiento - Nacimiento Dam
+BRDC1,Salinas - Bradley
+PRBC1,Salinas - Paso Robles
+ESRC1,Estrella - Estrella
+SUSC1,Susan River - Susanville
+NIXN2,Truckee nr Nixon
+ILAC1,Independence Lake
+STPC1,Little Truckee - Stampede Dam
+SGNC1,Saghen Ck - Truckee
+VISN2,Truckee - Vista
+WADN2,Truckee R at Wadsworth
+BCAC1,Little Truckee - Boca Dam
+TRRN2,Truckee - Reno
+PSRC1,Prosser Ck - Prosser Ck Dam
+DNRC1,Donner Lake
+SCWN2,Steamboat Ck - Sparks
+FARC1,Truckee - Farad
+MTSC1,Martis Ck Reservoir
+TBDN2,Truckee R blw Derby Dam
+TRCC1,Truckee nr Truckee
+FTCN2,Carson R nr Fort Churchill
+WALN2,Walker R nr Wabuska
+TAHC1,Truckee - Tahoe City
+STWN2,Carson Rvr - Carson City
+WOOC1,WF Carson - Woodfords
+GRDN2,EF Carson - Gardnerville
+MASN2,Walker - Mason
+WWHN2,W Walker nr Hudson
+CEMC1,EF Carson - Markleeville
+HOYN2,W Walker at Hoye Bridge
+WWBC1,West Walker blw Little Walker
+EWSN2,E Walker abv Strosnider
+BPRC1,East Walker - Bridgeport
+SCRN2,Steamboat Ck - Steamboat
+LWON2,Steamboat Ck - Washoe Lake
+PLLC1,NF Feather - Lk Almanor
+NFEC1,EB of NF Feather
+WBGC1,WB Feather - Magalia
+PLGC1,NF Feather - Pulga
+SCBC1,Spanish Ck - Keddie
+IIFC1,Indian Ck - Indian Falls
+ORDC1,Feather - Oroville Dam
+MRMC1,MF Feather - Merrimac
+NBBC1,NF Yuba - New Bullards Bar
+HCTC1,SF Honcut Ck - Bangor
+GYRC1,NF Yuba - Goodyears Bar
+DMCC1,Dry Ck - Merle Collins Lk
+OURC1,MF Yuba - Our House
+MFTC1,MF Feather - Portola
+JKRC1,MF Yuba - Jackson Meadows Res
+BWKC1,Canyon Ck - Bowman Res
+HLEC1,Yuba - Englebright Dam
+YUBC1,Feather - Yuba City
+FOCC1,SF Yuba - Fordyce Res
+JNSC1,SF Yuba - Jones Bar
+MRYC1,Yuba - Marysville
+DCSC1,Deer Ck - Smartville
+SUAC1,SF Yuba - Lk Spaulding
+ROLC1,Bear R - Rollins Reservoir
+DCWC1,Dry Ck - Wheatland
+NCOC1,Feather R - Nicolaus
+CFWC1,Bear - Camp Far West
+MDCN2,McDermitt Ck - McDermitt
+MARN2,Martin Ck near Paradise
+MBON2,Marys blw Orange Bridge
+LHPN2,Little Humboldt - Paradise Valley
+MHSN2,Marys R abv Hot Springs Ck
+DVGN2,NF Humboldt - Devils Gate
+ROCN2,Rock Ck - Battle Mountain
+RYPN2,Humboldt - Rye Patch
+CMSN2,Humboldt - Comus
+HRIN2,Humboldt - Imlay
+PALN2,Humboldt - Palisade
+HREN2,Humboldt - Elko
+LCLN2,Lamoille Ck nr Lamoille
+HRCN2,Humboldt - Carlin
+DIXN2,SF Humboldt - Elko
+HBMN2,Humboldt - Battle Mountain
+CNBC1,Pit River nr Canby
+PLYC1,SF Pit  nr Likely
+PITC1,Pit River blo Montgomery Ck
+MMCC1,McCloud R nr McCloud
+DLTC1,Sacramento - Delta
+MSSC1,McCloud abv Shasta Lake
+SHDC1,Sacramento - Shasta Dam
+WHSC1,Whiskey Ck - Whiskeytown Dam
+KESC1,Sacramento - Keswick
+RDGC1,Clear Ck nr Igo
+CWCC1,Cow Creek - Millville
+BDBC1,Sacramento - Bend Bridge
+COTC1,Battle Ck - Cottonwood
+CWAC1,Cottonwood Ck - Cottonwood
+EDCC1,Elder Ck - Paskenta
+TEHC1,Sacramento - Tehama
+MLMC1,Mill Ck - Los Molinos
+DCVC1,Deer Ck - Vina
+TCRC1,Thomes Creek - Paskenta
+VWBC1,Sacramento - Vina-Woodson Bridge
+HKCC1,Big Chico Ck - Chico
+BKCC1,Butte Ck - Chico
+ORFC1,Sacramento - Ord Ferry
+BLBC1,Stony Ck - Black Butte Dam
+SGEC1,Stony Ck - Stony Gorge Dam
+RCVC1,Cherokee Canal nr Richvale
+EPRC1,Little Stony Ck - East Park Dam
+FMWC1,Sacramento - Fremont Weir
+DLMC1,Dry Creek nr Lemoncove
+KTRC1,Kaweah - Three Rivers
+TMDC1,Kaweah - Terminus Dam
+PFTC1,Kings - Pine Flat Dam
+MLPC1,Mill Creek nr Piedra
+KKVC1,Kern - Fairview Dam
+SKRC1,SF Kern - Onyx
+ISAC1,Kern - Isabella Dam
+SCSC1,Tule - Success Dam
+HSAC1,Huasna R - Arroyo Grande
+TWDC1,Cuyama - Twitchell Dam
+GARC1,Sisquoc - Garey
+SSQC1,Sisquoc R - Sisquoc
+SLUC1,Salsipudes Ck - Lompoc
+NRWC1,Santa Ynez - Narrows
+CCHC1,Santa Ynez - Cachuma Dam
+CYBC1,Cuyama R - Buckhorn Canyon
+PYMC1,Piru Ck - Pyramid Lake
+LLYC1,Santa Ynez - Los Laurels Canyon
+SESC1,Sespe Ck - Fillmore
+VRVC1,Ventura River nr Ventura
+LKPC1,Lake Piru
+VCAC1,Santa Clara - Victoria Avenue
+SCPC1,Santa Clara - Piru
+CLLC1,Calleguas Ck - Camarillo
+SVIC1,San Vicente Ck - San Vicente Dam
+ELPC1,San Diego R - El Capitan Dam
+FSNC1,San Diego R - Fashion Valley
+MUTC1,Murrieta Ck - Temecula
+SMHC1,Santa Margarita - Temecula
+VLKC1,Temecula Ck - Vail Lake
+YDRC1,Santa Margarita - Ysidora
+TEKC1,Temecula Ck - Aguanga
+SLOC1,San Luis Rey R at Oceanside
+SHRC1,San Luis Rey - Shearer Crossing
+HAWC1,San Luis Rey R - Lake Henshaw
+MBRC1,Mojave River at Barstow
+MVVC1,Mojave River nr Victorville
+MVDC1,Mojave Forks Dam
+WFMC1,WF Mojave - Hesperia
+SVWC1,Silverwood Lk - Hesperia
+DKHC1,Deep Creek nr Hesperia
+KNBC1,Cajon Ck - Keenbrook
+YTLC1,Lytle Ck nr Colton
+SRWC1,Santa Ana - Mentone
+SREC1,Santa Ana - E St
+MWXC1,Santa Ana - MWD Crossing
+ADOC1,Santa Ana R - Prado Dam
+TIMC1,San Timoteo Ck - Loma Linda
+LKMC1,Lake Matthews
+TSLC1,Temescal Ck abv Main Street
+MSYC1,Mission Ck - Desert Hot Springs
+WIPC1,Whitewater at Windy Point
+WWIC1,Whitewater River at Rancho Mirage
+WTIC1,Whitewater River at Indio
+PCNC1,Palm Canyon Creek near Palm Springs
+DEPC1,Deep Creek - Pam Desert
+WHWC1,Whitewater River at Mecca
+EXQC1,Merced - New Exchequer Dam
+POHC1,Merced R - Pohono Bridge
+HPIC1,Merced R - Happy Isles Br
+FRAC1,San Joaquin - Friant Dam
+NWMC1,San Joaquin - Newman
+DRYC1,Dry Ck - Crabtree Rd
+DSNC1,Dry Ck - Snelling
+MDSC1,Tuolumne - Modesto
+KNFC1,Stanislaus - Knights Ferry
+HIDC1,Fresno - Hidden Dam
+BHNC1,Chowchilla - Buchanan Dam
+MPAC1,Mariposa Ck - Mariposa Res
+OWCC1,Owens Ck - Owens Dam
+BCKC1,Bear Ck - Bear Res
+BNCC1,Burns Ck - Burns Res
+MEEC1,Bear Ck - McKee Rd
+STVC1,Merced - Stevinson
+PATC1,San Joaquin - Patterson
+VNSC1,San Joaquin - Vernalis
+DCMC1,Dry Ck - Claus Rd
+OBBC1,Stanislaus - Orange Blossom Br
+RIPC1,Stanislaus - Ripon
+MOSC1,San Joaquin - Mossdale
+PTTC1,Del Puerto Ck - Patterson
+OREC1,Orestimba Ck - Newman
+LTDC1,Little Dry Ck nr Friant
+PNEC1,Panoche Ck - Interstate 5
+LGAC1,Los Gatos Ck - El Dorado Ave
+WARC1,Warthan Ck - Coalinga
+LGCC1,Los Gatos Ck - Coalinga
+CHVC1,Cherry Ck - Cherry Valley Dam
+LNRC1,Eleanor Ck - Lake Eleanor Dam
+NDPC1,Tuolumne - New Don Pedro Dam
+NDVC1,NF Stanislaus - Diversion Dam
+NSWC1,Highland Ck - New Spicer Meadows Rsvr
+AVYC1,NF Stanislaus - Avery
+NMSC1,Stanislaus - New Melones Dam
+UKAC1,Russian R - Ukiah
+LAMC1,EF Russian - Coyote Dam
+HOPC1,Russian - Hopland
+GRCC1,Garcia R - Pt Arena
+NVRC1,Navarro - Navarro
+CDLC1,Russian River - Cloverdale
+WSDC1,Dry Ck - Warm Springs Dam
+GSRC1,SF Gualala - Sea Ranch
+HEAC1,Russian River - Healdsburg
+SHEC1,Napa - St. Helena
+HNEC1,Conn Ck - Lake Hennessey
+GUEC1,Russian - Guerneville
+APCC1,Napa - Napa
+FTDC1,Smith - Fort Dick
+CREC1,Smith - Jed Smith nr Crescent City
+ORIC1,Redwood Ck - Orick
+BLKC1,Redwood Ck - Blue Lake
+FRNC1,Eel - Fernbridge
+ARCC1,Mad River - Arcata
+RDAC1,Mad River - Ruth Lake
+BRGC1,Van Duzen - Bridgeville
+MTOC1,Mattole - Petrolia
+SCOC1,Eel - Scotia
+ETTC1,Mattole - Ettersburg
+MAUC1,Mad River abv Ruth Reservoir
+MRNC1,SF Eel - Miranda
+LEGC1,SF Eel - Leggett
+DOSC1,MF Eel - Dos Rios
+FTBC1,Noyo - Ft Bragg
+FTSC1,Eel - Fort Seward
+PLBC1,Eel R - Lk Pillsbury
+FRGC1,Littlejohns Ck - Farmington
+MSGC1,Mormon Slough - Bellota
+NHGC1,Calaveras - New Hogan Dam
+THTC1,Mokelumne - Benson Ferry
+CMCC1,Mokelumne - Camanche Dam
+CMPC1,Mokelumne - Pardee Dam
+EDOC1,NF Cosumnes - El Dorado
+MCNC1,Cosumnes - McConnell
+SOSC1,MF Cosumnes - Somerset
+MHBC1,Cosumnes - Michigan Bar
+SACC1,Sacramento - Sacramento I Street
+SAMC1,American - H Street
+RVBC1,Sacramento Delta - Rio Vista Bridge
+BOYO3,Klamath blw JC Boyle Dam
+BTYO3,Sprague R - Beatty
+BURC1,Trinity R nr Burnt Ranch
+CEGC1,Trinity R at Clair Engle Reservoir
+CHSO3,Sprague nr Chiloquin
+CKEC1,Lost R - Clear Lake
+FTJC1,Scott - Fort Jones
+GERO3,Gerber Reservoir
+HAPC1,Indian Ck - Happy Camp
+HOOC1,Trinity R @ Hoopa
+HYMC1,SF Trinity - Hyampom
+IRGC1,Klamath - Iron Gate Dam
+KELO3,Lost R - Keller Bridge
+KEOO3,Klamath River at Keno
+KLAO3,Upper Klamath Lake
+KLMC1,Klamath - Turwar Creek
+LEWC1,Trinity - Lewiston Reservoir
+ONSC1,Klamath - Orleans
+SBRC1,Salmon - Somes bar
+SCNO3,Sycan R - Beatty
+SEIC1,Klamath - Seiad Valley
+SFYC1,SF Trinity nr Hyampon
+TRJC1,Trinity - Junction City
+WKAO3,Williamson R nr Agency
+WMSO3,Williamson - blo Sprague River
+YREC1,Shasta nr Yreka
+HETC1,Tuolomne - Hetch Hetchy Dam
+GSJC1,Guadalupe River abv Hwy 101 - San Jose
+GUAC1,Guadalupe Ck - Guadalupe Rsvr
+GUDC1,Guadalupe R - Almaden Expressway
+CADC1,Calero Ck - Calero Rsvr
+ALRC1,Alamitos Ck - Almaden Rsvr
+LEXC1,Los Gatos Ck - Lexington Res
+ANTC1,Antelope Lake - Taylorsville nr
+BSCC1,Big Sulphur Ck - Cloverdale nr
+BTJC1,Big Tujunga Cyn - Big Tujunga Dam
+CTIC1,Laguna De Santa Rosa - Stony Pt Rd
+DVSC1,Lake Davis - Portola nr
+FHDC1,Little Last Chance Ck - Frenchman Lk
+GEYC1,Russian R - Geyserville
+HANC1,Hansen Dam
+LBDC1,Los Banos Dam
+LSEC1,Laguna De Santa Rosa - Sebastopol nr
+MFPC1,MF American - Abv Middle Fork Powerhouse
+MRWC1,Mokelumne R - Woodbridge
+MWEC1,Mark West Ck - Mirabel Heights
+RADC1,Ruth Lake
+RMKC1,Maacama Ck - Kellogg
+SSAC1,Santa Rosa Ck - Santa Rosa
+TCCC1,Trinity - Coffee Ck above
+TVRC1,SF Tule - Reservation Boundary

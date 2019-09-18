@@ -1,0 +1,353 @@
+basin,major_huc,cwa,grp,fcastordata,descript,num_zones,zone1_minelev,zone2_minelev,zone3_minelev,zone1shef,zone2shef,zone3shef
+ACSC1,18,MTR,CentralCoast,d,San Antonio Ck - Sunol,0,NA,NA,NA,NA,,NA
+ADLC1,18,MTR,CentralCoast,d,Arroyo De La Laguna,0,NA,NA,NA,NA,,NA
+ADOC1,18,SGX,SouthernCalifornia,d,Santa Ana R - Prado Dam,0,NA,NA,NA,NA,,NA
+AHOC1,18,MTR,CentralCoast,d,Arroyo Honda nr San Jose,0,NA,NA,NA,NA,,NA
+AKYC1,18,STO,American,d,SF American nr Kyburz,2,1169,1512,NA,AKYC1HLF,AKYC1HUF,NA
+ALQC1,18,MTR,CentralCoast,d,Alamo Canal nr Pleasanton,0,NA,NA,NA,NA,,NA
+ALRC1,18,MTR,CentralCoast,d,Alamitos Ck - Almaden Rsvr,0,NA,NA,NA,NA,,NA
+ANDC1,18,MTR,CentralCoast,d,Coyote Ck - Anderson Res,0,NA,NA,NA,NA,,NA
+ANTC1,18,REV,FeatherYuba,d,Antelope Lake - Taylorsville nr,0,NA,NA,NA,NA,,NA
+APCC1,18,MTR,RussianNapa,f,Napa - Napa,0,NA,NA,NA,NA,,NA
+ARCC1,18,EKA,NorthCoast,f,Mad River - Arcata,0,NA,NA,NA,NA,,NA
+AROC1,18,MTR,CentralCoast,f,Pajaro - Chittenden,0,NA,NA,NA,NA,,NA
+AVYC1,18,STO,SanJoaquin,d,NF Stanislaus - Avery,2,1031,1509,NA,AVYC1LLF,AVYC1LMF,NA
+AWEC1,18,MTR,CentralCoast,d,Alameda Ck - Welch Ck,0,NA,NA,NA,NA,,NA
+BCAC1,16,REV,EastSierra,d,Little Truckee - Boca Dam,2,1680,1814,NA,BCAC1LLF,BCAC1LUF,NA
+BCKC1,18,HNX,SanJoaquin,d,Bear Ck - Bear Res,0,NA,NA,NA,NA,,NA
+BDBC1,18,STO,UpperSacramento,f,Sacramento - Bend Bridge,0,NA,NA,NA,NA,,NA
+BHNC1,18,HNX,SanJoaquin,d,Chowchilla - Buchanan Dam,0,NA,NA,NA,NA,,NA
+BKCC1,18,STO,UpperSacramento,d,Butte Ck - Chico,2,99,1525,NA,BKCC1HLF,BKCC1HUF,NA
+BLBC1,18,STO,UpperSacramento,d,Stony Ck - Black Butte Dam,2,112,1525,NA,BLBC1LLF,BLBC1LUF,NA
+BLKC1,18,EKA,NorthCoast,d,Redwood Ck - Blue Lake,0,NA,NA,NA,NA,,NA
+BNCC1,18,HNX,SanJoaquin,d,Burns Ck - Burns Res,0,NA,NA,NA,NA,,NA
+BOYO3,18,MFR,Klamath,d,Klamath blw JC Boyle Dam,2,1000,1497,NA,BOYO3LLF,BOYO3LUF,NA
+BPRC1,16,REV,EastSierra,d,East Walker - Bridgeport,2,1958,2412,NA,BPRC1HLF,BPRC1HUF,NA
+BRDC1,18,MTR,CentralCoast,f,Salinas - Bradley,0,NA,NA,NA,NA,,NA
+BRGC1,18,EKA,NorthCoast,f,Van Duzen - Bridgeville,0,NA,NA,NA,NA,,NA
+BSCC1,18,MTR,RussianNapa,d,Big Sulphur Ck - Cloverdale nr,0,NA,NA,NA,NA,,NA
+BSRC1,18,MTR,CentralCoast,d,Big Sur nr Big Sur,0,NA,NA,NA,NA,,NA
+BTEC1,18,MTR,CentralCoast,d,San Lorenzo River - Big Trees,0,NA,NA,NA,NA,,NA
+BTJC1,18,LOX,SouthernCalifornia,d,Big Tujunga Cyn - Big Tujunga Dam,0,NA,NA,NA,NA,,NA
+BTYO3,18,MFR,Klamath,f,Sprague R - Beatty,2,1314,1484,NA,BTYO3HLF,BTYO3HUF,NA
+BURC1,18,EKA,Klamath,d,Trinity R nr Burnt Ranch,2,288,1468,NA,BURC1LLF,BURC1LUF,NA
+BWKC1,18,STO,FeatherYuba,d,Canyon Ck - Bowman Res,0,NA,NA,NA,NA,,NA
+CADC1,18,MTR,CentralCoast,d,Calero Ck - Calero Rsvr,0,NA,NA,NA,NA,,NA
+CBAC1,18,STO,American,d,SF American - Placerville,2,291,1508,NA,CBAC1LLF,CBAC1LUF,NA
+CCHC1,18,LOX,SouthernCalifornia,d,Santa Ynez - Cachuma Dam,0,NA,NA,NA,NA,,NA
+CDLC1,18,EKA,RussianNapa,d,Russian River - Cloverdale,0,NA,NA,NA,NA,,NA
+CEGC1,18,EKA,Klamath,d,Trinity R at Clair Engle Reservoir,2,719,1525,NA,CEGC1LLF,CEGC1LUF,NA
+CEMC1,16,REV,EastSierra,f,EF Carson - Markleeville,2,1643,2404,NA,CEMC1HLF,CEMC1HUF,NA
+CFWC1,18,STO,FeatherYuba,d,Bear - Camp Far West,0,NA,NA,NA,NA,,NA
+CHLC1,18,MTR,CentralCoast,d,Salinas River nr Chular,0,NA,NA,NA,NA,,NA
+CHSO3,18,MFR,Klamath,d,Sprague nr Chiloquin,2,1282,1483,NA,CHSO3LLF,CHSO3LUF,NA
+CHVC1,18,STO,SanJoaquin,d,Cherry Ck - Cherry Valley Dam,3,1421,1507,2370,CHVC1HLF,CHVC1HMF,CHVC1HUF
+CKEC1,18,MFR,Klamath,d,Lost R - Clear Lake,2,1364,1497,NA,CKEC1HLF,CKEC1HUF,NA
+CLKC1,18,STO,CachePutah,d,Cache Creek - Clear Lake,0,NA,NA,NA,NA,,NA
+CLLC1,18,LOX,SouthernCalifornia,f,Calleguas Ck - Camarillo,0,NA,NA,NA,NA,,NA
+CMCC1,18,STO,N_SanJoaquin,d,Mokelumne - Camanche Dam,0,NA,NA,NA,NA,,NA
+CMIC1,18,MTR,CentralCoast,d,Coyote Ck - CA Hwy 237,0,NA,NA,NA,NA,,NA
+CMPC1,18,STO,N_SanJoaquin,d,Mokelumne - Pardee Dam,3,73,1453,2403,CMPC1HLF,CMPC1HMF,CMPC1HUF
+CNBC1,18,MFR,UpperSacramento,f,Pit River nr Canby,2,1302,1677,NA,CNBC1LLF,CNBC1LUF,NA
+COTC1,18,STO,UpperSacramento,d,Battle Ck - Cottonwood,2,127,1525,NA,COTC1HLF,COTC1HUF,NA
+COYC1,18,MTR,CentralCoast,d,Coyote Ck - Coyote Res,0,NA,NA,NA,NA,,NA
+CREC1,18,EKA,NorthCoast,f,Smith - Jed Smith nr Crescent City,0,NA,NA,NA,NA,,NA
+CSKC1,18,LOX,SouthernCalifornia,d,Castaic Lake,0,NA,NA,NA,NA,,NA
+CTIC1,18,MTR,RussianNapa,d,Laguna De Santa Rosa - Stony Pt Rd,0,NA,NA,NA,NA,,NA
+CVQC1,18,MTR,CentralCoast,d,Calaveras Reservoir,0,NA,NA,NA,NA,,NA
+CWAC1,18,STO,UpperSacramento,d,Cottonwood Ck - Cottonwood,2,110,1525,NA,CWAC1HLF,CWAC1HUF,NA
+CWCC1,18,STO,UpperSacramento,d,Cow Creek - Millville,2,116,1525,NA,CWCC1HLF,CWCC1HUF,NA
+CYBC1,18,LOX,SouthernCalifornia,d,Cuyama R - Buckhorn Canyon,0,NA,NA,NA,NA,,NA
+CYEC1,18,MTR,CentralCoast,d,Coyote Ck - Edenvale,0,NA,NA,NA,NA,,NA
+DCMC1,18,STO,SanJoaquin,d,Dry Ck - Claus Rd,0,NA,NA,NA,NA,,NA
+DCSC1,18,STO,FeatherYuba,d,Deer Ck - Smartville,0,NA,NA,NA,NA,,NA
+DCVC1,18,STO,UpperSacramento,d,Deer Ck - Vina,2,150,1525,NA,DCVC1HLF,DCVC1HUF,NA
+DCWC1,18,STO,FeatherYuba,d,Dry Ck - Wheatland,0,NA,NA,NA,NA,,NA
+DEPC1,18,SGX,SouthernCalifornia,d,Deep Creek - Pam Desert,2,420,1768,NA,DEPC1HLF,DEPC1HUF,NA
+DIXN2,16,LKN,Humboldt,d,SF Humboldt - Elko,2,1570,2087,NA,DIXN2HLF,DIXN2HUF,NA
+DKHC1,18,SGX,SouthernCalifornia,d,Deep Creek nr Hesperia,0,NA,NA,NA,NA,,NA
+DLMC1,18,HNX,Tulare,d,Dry Creek nr Lemoncove,2,173,1516,NA,DLMC1HLF,DLMC1HUF,NA
+DLTC1,18,STO,UpperSacramento,d,Sacramento - Delta,2,331,1525,NA,DLTC1HLF,DLTC1HUF,NA
+DMCC1,18,STO,FeatherYuba,d,Dry Ck - Merle Collins Lk,0,NA,NA,NA,NA,,NA
+DNRC1,16,REV,EastSierra,d,Donner Lake,0,NA,NA,NA,NA,,NA
+DOSC1,18,EKA,NorthCoast,d,MF Eel - Dos Rios,2,277,1503,NA,DOSC1HLF,DOSC1HUF,NA
+DRYC1,18,STO,SanJoaquin,d,Dry Ck - Crabtree Rd,0,NA,NA,NA,NA,,NA
+DSNC1,18,HNX,SanJoaquin,d,Dry Ck - Snelling,0,NA,NA,NA,NA,,NA
+DVGN2,16,LKN,Humboldt,d,NF Humboldt - Devils Gate,2,1638,2109,NA,DVGN2HLF,DVGN2HUF,NA
+DVSC1,18,REV,FeatherYuba,d,Lake Davis - Portola nr,0,NA,NA,NA,NA,,NA
+EDCC1,18,STO,UpperSacramento,d,Elder Ck - Paskenta,2,224,1525,NA,EDCC1HLF,EDCC1HUF,NA
+EDOC1,18,STO,N_SanJoaquin,d,NF Cosumnes - El Dorado,2,255,1513,NA,EDOC1HLF,EDOC1HUF,NA
+EFBC1,18,LOX,SouthernCalifornia,d,Elderberry Forebay,0,NA,NA,NA,NA,,NA
+ELPC1,18,SGX,SouthernCalifornia,d,San Diego R - El Capitan Dam,0,NA,NA,NA,NA,,NA
+EPRC1,18,STO,UpperSacramento,d,Little Stony Ck - East Park Dam,0,NA,NA,NA,NA,,NA
+ESRC1,18,LOX,CentralCoast,d,Estrella - Estrella,0,NA,NA,NA,NA,,NA
+ETTC1,18,EKA,NorthCoast,d,Mattole - Ettersburg,0,NA,NA,NA,NA,,NA
+EWSN2,16,REV,EastSierra,d,E Walker abv Strosnider,2,1396,2415,NA,EWSN2LLF,EWSN2LUF,NA
+EXQC1,18,HNX,SanJoaquin,d,Merced - New Exchequer Dam,3,166,1503,2424,EXQC1LLF,EXQC1LMF,EXQC1LUF
+FARC1,16,REV,EastSierra,f,Truckee - Farad,2,1567,1804,NA,FARC1LLF,FARC1LUF,NA
+FHDC1,18,REV,FeatherYuba,d,Little Last Chance Ck - Frenchman Lk,0,NA,NA,NA,NA,,NA
+FMDC1,16,STO,American,d,MF American - French Meadows,0,NA,NA,NA,NA,,NA
+FMWC1,18,STO,UpperSacramento,f,Sacramento - Fremont Weir,0,NA,NA,NA,NA,,NA
+FOCC1,18,STO,FeatherYuba,d,SF Yuba - Fordyce Res,0,NA,NA,NA,NA,,NA
+FOLC1,18,STO,American,d,American River - Folsom Dam,0,NA,NA,NA,NA,,NA
+FRAC1,18,HNX,SanJoaquin,d,San Joaquin - Friant Dam,3,123,1479,2358,FRAC1HLF,FRAC1HMF,FRAC1HUF
+FRGC1,18,STO,N_SanJoaquin,d,Littlejohns Ck - Farmington,0,NA,NA,NA,NA,,NA
+FRNC1,18,EKA,NorthCoast,f,Eel - Fernbridge,0,NA,NA,NA,NA,,NA
+FSNC1,18,SGX,SouthernCalifornia,f,San Diego R - Fashion Valley,0,NA,NA,NA,NA,,NA
+FTBC1,18,EKA,NorthCoast,d,Noyo - Ft Bragg,0,NA,NA,NA,NA,,NA
+FTCN2,16,REV,EastSierra,d,Carson R nr Fort Churchill,0,NA,NA,NA,NA,,NA
+FTDC1,18,EKA,NorthCoast,f,Smith - Fort Dick,0,NA,NA,NA,NA,,NA
+FTJC1,18,MFR,Klamath,f,Scott - Fort Jones,2,801,1474,NA,FTJC1HLF,FTJC1HUF,NA
+FTSC1,18,EKA,NorthCoast,f,Eel - Fort Seward,2,73,1513,NA,FTSC1LLF,FTSC1LUF,NA
+GARC1,18,LOX,SouthernCalifornia,f,Sisquoc - Garey,0,NA,NA,NA,NA,,NA
+GERO3,18,MFR,Klamath,d,Gerber Reservoir,2,1457,1499,NA,GERO3HLF,GERO3HUF,NA
+GEYC1,18,MTR,RussianNapa,d,Russian R - Geyserville,0,NA,NA,NA,NA,,NA
+GRCC1,18,EKA,RussianNapa,d,Garcia R - Pt Arena,0,NA,NA,NA,NA,,NA
+GRDN2,16,REV,EastSierra,f,EF Carson - Gardnerville,2,1522,2117,NA,GRDN2LLF,GRDN2LUF,NA
+GSJC1,18,MTR,CentralCoast,d,Guadalupe River abv Hwy 101 - San Jose,0,NA,NA,NA,NA,,NA
+GSRC1,18,MTR,RussianNapa,d,SF Gualala - Sea Ranch,0,NA,NA,NA,NA,,NA
+GUAC1,18,MTR,CentralCoast,d,Guadalupe Ck - Guadalupe Rsvr,0,NA,NA,NA,NA,,NA
+GUDC1,18,MTR,CentralCoast,f,Guadalupe R - Almaden Expressway,0,NA,NA,NA,NA,,NA
+GUEC1,18,MTR,RussianNapa,f,Russian - Guerneville,0,NA,NA,NA,NA,,NA
+GYRC1,18,STO,FeatherYuba,d,NF Yuba - Goodyears Bar,2,750,1488,NA,GYRC1HLF,GYRC1HUF,NA
+HANC1,18,LOX,SouthernCalifornia,d,Hansen Dam,0,NA,NA,NA,NA,,NA
+HAPC1,18,MFR,Klamath,d,Indian Ck - Happy Camp,2,366,1471,NA,HAPC1HLF,HAPC1HUF,NA
+HAWC1,18,SGX,SouthernCalifornia,d,San Luis Rey R - Lake Henshaw,0,NA,NA,NA,NA,,NA
+HCHC1,18,STO,CachePutah,d,Bear Ck - Holsten Chimney,0,NA,NA,NA,NA,,NA
+HCTC1,18,STO,FeatherYuba,d,SF Honcut Ck - Bangor,0,NA,NA,NA,NA,,NA
+HEAC1,18,MTR,RussianNapa,f,Russian River - Healdsburg,0,NA,NA,NA,NA,,NA
+HETC1,18,HNX,SanJoaquin,d,Tuolomne - Hetch Hetchy Dam,3,1149,1459,2385,HETC1HLF,HETC1HMF,HETC1HUF
+HIDC1,18,HNX,SanJoaquin,d,Fresno - Hidden Dam,0,NA,NA,NA,NA,,NA
+HKCC1,18,STO,UpperSacramento,d,Big Chico Ck - Chico,0,NA,NA,NA,NA,,NA
+HLEC1,18,STO,FeatherYuba,d,Yuba - Englebright Dam,2,99,1501,NA,HLEC1LLF,HLEC1LUF,NA
+HLLC1,18,STO,American,d,Rubicon River - Hell Hole Resvr,2,1306,1505,NA,HLLC1LLF,HLLC1LUF,NA
+HNEC1,18,MTR,RussianNapa,d,Conn Ck - Lake Hennessey,0,NA,NA,NA,NA,,NA
+HOOC1,18,EKA,Klamath,f,Trinity R @ Hoopa,2,85,1463,NA,HOOC1LLF,HOOC1LUF,NA
+HOPC1,18,EKA,RussianNapa,f,Russian - Hopland,0,NA,NA,NA,NA,,NA
+HOSC1,18,MTR,CentralCoast,d,San Benito - Hollister,0,NA,NA,NA,NA,,NA
+HOUC1,18,STO,CachePutah,d,NF Cache Ck - Hough Springs,0,NA,NA,NA,NA,,NA
+HOYN2,16,REV,EastSierra,d,W Walker at Hoye Bridge,2,1512,2411,NA,HOYN2LLF,HOYN2LUF,NA
+HPIC1,18,HNX,SanJoaquin,f,Merced R - Happy Isles Br,2,NA,1227,NA,NA,NA,NA
+HRCN2,16,LKN,Humboldt,d,Humboldt - Carlin,2,1505,2099,NA,HRCN2LLF,HRCN2LUF,NA
+HREN2,16,LKN,Humboldt,f,Humboldt - Elko,2,1567,2102,NA,HREN2LLF,HREN2LUF,NA
+HSAC1,18,LOX,SouthernCalifornia,d,Huasna R - Arroyo Grande,0,NA,NA,NA,NA,,NA
+HYMC1,18,EKA,Klamath,d,SF Trinity - Hyampom,2,371,1477,NA,HYMC1LLF,HYMC1LUF,NA
+ICHC1,18,STO,American,d,Ice House Res nr Kyburz,0,NA,NA,NA,NA,,NA
+IIFC1,18,REV,FeatherYuba,d,Indian Ck - Indian Falls,2,945,1500,NA,IIFC1LLF,IIFC1LUF,NA
+ILAC1,16,REV,EastSierra,d,Independence Lake,0,NA,NA,NA,NA,,NA
+INVC1,18,STO,CachePutah,d,NF Cache Ck - Indian Valley Dam,0,NA,NA,NA,NA,,NA
+IRGC1,18,MFR,Klamath,d,Klamath - Iron Gate Dam,2,661,1481,NA,IRGC1LLF,IRGC1LUF,NA
+ISAC1,18,HNX,Tulare,d,Kern - Isabella Dam,3,749,1356,2297,ISAC1LLF,ISAC1LMF,ISAC1LUF
+JKRC1,18,STO,FeatherYuba,d,MF Yuba - Jackson Meadows Res,0,NA,NA,NA,NA,,NA
+JNSC1,18,STO,FeatherYuba,d,SF Yuba - Jones Bar,2,325,1469,NA,JNSC1LLF,JNSC1LUF,NA
+KCVC1,18,STO,CachePutah,d,Kelsey Ck - Kelseyville nr,0,NA,NA,NA,NA,,NA
+KCYC1,18,MTR,CentralCoast,d,San Lorenzo Ck - Bitterwater,0,NA,NA,NA,NA,,NA
+KELO3,18,MFR,Klamath,d,Lost R - Keller Bridge,2,1254,1484,NA,KELO3LLF,KELO3LUF,NA
+KEOO3,18,MFR,Klamath,d,Klamath River at Keno,2,1239,1505,NA,KEOO3LLF,KEOO3LUF,NA
+KESC1,18,STO,UpperSacramento,d,Sacramento - Keswick,0,NA,NA,NA,NA,,NA
+KKVC1,18,HNX,Tulare,d,Kern - Fairview Dam,3,1097,1364,2241,KKVC1HLF,KKVC1HMF,KKVC1HUF
+KLAO3,18,MFR,Klamath,d,Upper Klamath Lake,2,1250,1466,NA,KLAO3LLF,KLAO3LUF,NA
+KLMC1,18,EKA,Klamath,f,Klamath - Turwar Creek,2,6,1460,NA,KLMC1LLF,KLMC1LUF,NA
+KNBC1,18,SGX,SouthernCalifornia,d,Cajon Ck - Keenbrook,0,NA,NA,NA,NA,,NA
+KNFC1,18,STO,SanJoaquin,d,Stanislaus - Knights Ferry,0,NA,NA,NA,NA,,NA
+KTRC1,18,HNX,Tulare,d,Kaweah - Three Rivers,3,240,1488,2387,KTRC1HLF,KTRC1HMF,KTRC1HUF
+LAMC1,18,EKA,RussianNapa,d,EF Russian - Coyote Dam,0,NA,NA,NA,NA,,NA
+LBDC1,18,HNX,SanJoaquin,d,Los Banos Dam,0,NA,NA,NA,NA,,NA
+LBEC1,18,MTR,CachePutah,d,Putah Ck - Lake Berryessa,0,NA,NA,NA,NA,,NA
+LCLN2,16,LKN,Humboldt,d,Lamoille Ck nr Lamoille,0,NA,NA,NA,NA,,NA
+LEGC1,18,EKA,NorthCoast,d,SF Eel - Leggett,0,NA,NA,NA,NA,,NA
+LEWC1,18,EKA,Klamath,d,Trinity - Lewiston Reservoir,0,579,NA,NA,LEWC1LLF,,NA
+LEXC1,18,MTR,CentralCoast,d,Los Gatos Ck - Lexington Res,0,NA,NA,NA,NA,,NA
+LGAC1,18,HNX,SanJoaquin,d,Los Gatos Ck - El Dorado Ave,0,NA,NA,NA,NA,,NA
+LGCC1,18,HNX,SanJoaquin,d,Los Gatos Ck - Coalinga,0,NA,NA,NA,NA,,NA
+LHPN2,16,LKN,Humboldt,d,Little Humboldt - Paradise Valley,2,1365,2112,NA,LHPN2HLF,LHPN2HUF,NA
+LKMC1,18,SGX,SouthernCalifornia,d,Lake Matthews,0,NA,NA,NA,NA,,NA
+LKPC1,18,LOX,SouthernCalifornia,d,Lake Piru,0,NA,NA,NA,NA,,NA
+LLYC1,18,LOX,SouthernCalifornia,d,Santa Ynez - Los Laurels Canyon,0,NA,NA,NA,NA,,NA
+LNLC1,18,STO,American,d,Loon Lake - Meeks Bay,0,NA,NA,NA,NA,,NA
+LNRC1,18,HNX,SanJoaquin,d,Eleanor Ck - Lake Eleanor Dam,3,1399,1502,2411,LNRC1HLF,LNRC1HMF,LNRC1HUF
+LRRC1,18,MTR,CentralCoast,d,San Lorenzo River - Santa Cruz,0,NA,NA,NA,NA,,NA
+LRZC1,18,MTR,CentralCoast,d,San Lorenzo Ck - Hayward,0,NA,NA,NA,NA,,NA
+LSEC1,18,MTR,RussianNapa,d,Laguna De Santa Rosa - Sebastopol nr,0,NA,NA,NA,NA,,NA
+LTDC1,18,HNX,SanJoaquin,d,Little Dry Ck nr Friant,0,NA,NA,NA,NA,,NA
+LVKC1,18,MTR,CentralCoast,d,Arroyo Valle - Livermore,0,NA,NA,NA,NA,,NA
+LWDC1,18,MTR,CentralCoast,d,San Antonio - Lockwood,0,NA,NA,NA,NA,,NA
+LWON2,16,REV,EastSierra,d,Steamboat Ck - Washoe Lake,2,1527,1807,NA,LWON2HLF,LWON2HUF,NA
+MARN2,16,LKN,Humboldt,d,Martin Ck near Paradise,2,1418,2110,NA,MARN2HLF,MARN2HUF,NA
+MASN2,16,REV,EastSierra,f,Walker - Mason,0,NA,NA,NA,NA,,NA
+MAUC1,18,EKA,NorthCoast,d,Mad River abv Ruth Reservoir,0,NA,NA,NA,NA,,NA
+MBON2,16,LKN,Humboldt,d,Marys blw Orange Bridge,2,1810,2086,NA,MBON2HLF,MBON2HUF,NA
+MBRC1,18,SGX,SouthernCalifornia,f,Mojave River at Barstow,0,NA,NA,NA,NA,,NA
+MCNC1,18,STO,N_SanJoaquin,f,Cosumnes - McConnell,0,NA,NA,NA,NA,,NA
+MDCN2,16,LKN,Humboldt,d,McDermitt Ck - McDermitt,2,1385,2111,NA,MDCN2HLF,MDCN2HUF,NA
+MDSC1,18,STO,SanJoaquin,f,Tuolumne - Modesto,0,NA,NA,NA,NA,,NA
+MEEC1,18,HNX,SanJoaquin,f,Bear Ck - McKee Rd,0,NA,NA,NA,NA,,NA
+MFAC1,18,STO,American,d,MF American - Foresthill,0,NA,NA,NA,NA,,NA
+MFPC1,18,STO,American,d,MF American - Abv Middle Fork Powerhouse,2,776,1525,NA,MFPC1LLF,MFPC1LUF,NA
+MFTC1,18,REV,FeatherYuba,f,MF Feather - Portola,2,1474,1506,NA,MFTC1HLF,MFTC1HUF,NA
+MHBC1,18,STO,N_SanJoaquin,f,Cosumnes - Michigan Bar,0,NA,NA,NA,NA,,NA
+MHSN2,16,LKN,Humboldt,f,Marys R abv Hot Springs Ck,2,1677,2110,NA,MHSN2LLF,MHSN2LUF,NA
+MLMC1,18,STO,UpperSacramento,d,Mill Ck - Los Molinos,2,116,1525,NA,MLMC1HLF,MLMC1HUF,NA
+MLPC1,18,HNX,Tulare,d,Mill Creek nr Piedra,2,171,1511,NA,MLPC1HLF,MLPC1HUF,NA
+MMCC1,18,MFR,UpperSacramento,d,McCloud R nr McCloud,2,816,1525,NA,MMCC1HLF,MMCC1HUF,NA
+MOSC1,18,STO,SanJoaquin,f,San Joaquin - Mossdale,0,NA,NA,NA,NA,,NA
+MPAC1,18,HNX,SanJoaquin,d,Mariposa Ck - Mariposa Res,0,NA,NA,NA,NA,,NA
+MPTC1,18,MTR,CentralCoast,d,Alameda ck abv Diversion,0,NA,NA,NA,NA,,NA
+MRMC1,18,STO,FeatherYuba,d,MF Feather - Merrimac,2,485,1485,NA,MRMC1LLF,MRMC1LUF,NA
+MRNC1,18,EKA,NorthCoast,f,SF Eel - Miranda,0,NA,NA,NA,NA,,NA
+MRWC1,18,STO,N_SanJoaquin,d,Mokelumne R - Woodbridge,0,NA,NA,NA,NA,,NA
+MRYC1,18,STO,FeatherYuba,f,Yuba - Marysville,0,NA,NA,NA,NA,,NA
+MSGC1,18,STO,N_SanJoaquin,f,Mormon Slough - Bellota,0,NA,NA,NA,NA,,NA
+MSSC1,18,STO,UpperSacramento,d,McCloud abv Shasta Lake,2,347,1525,NA,MSSC1LLF,MSSC1LUF,NA
+MSYC1,18,SGX,SouthernCalifornia,d,Mission Ck - Desert Hot Springs,2,719,1776,NA,MSYC1HLF,MSYC1HUF,NA
+MTOC1,18,EKA,NorthCoast,d,Mattole - Petrolia,0,NA,NA,NA,NA,,NA
+MTSC1,16,REV,EastSierra,d,Martis Ck Reservoir,2,1749,1817,NA,MTSC1HLF,MTSC1HUF,NA
+MUPC1,18,STO,CachePutah,d,Middle Ck - Upper Lake nr,0,NA,NA,NA,NA,,NA
+MUTC1,18,SGX,SouthernCalifornia,d,Murrieta Ck - Temecula,0,NA,NA,NA,NA,,NA
+MVDC1,18,SGX,SouthernCalifornia,d,Mojave Forks Dam,0,NA,NA,NA,NA,,NA
+MVVC1,18,SGX,SouthernCalifornia,f,Mojave River nr Victorville,0,NA,NA,NA,NA,,NA
+MWEC1,18,MTR,RussianNapa,d,Mark West Ck - Mirabel Heights,0,NA,NA,NA,NA,,NA
+MWXC1,18,SGX,SouthernCalifornia,d,Santa Ana - MWD Crossing,0,NA,NA,NA,NA,,NA
+NACC1,18,LOX,CentralCoast,d,Nacimiento - Nacimiento Dam,0,NA,NA,NA,NA,,NA
+NBBC1,18,STO,FeatherYuba,d,NF Yuba - New Bullards Bar,2,420,1472,NA,NBBC1LLF,NBBC1LUF,NA
+NBYC1,18,MTR,CentralCoast,d,Nacimiento - Sapaque,0,NA,NA,NA,NA,,NA
+NCOC1,18,STO,FeatherYuba,f,Feather R - Nicolaus,0,NA,NA,NA,NA,,NA
+NDPC1,18,STO,SanJoaquin,d,Tuolumne - New Don Pedro Dam,3,232,1495,2425,NDPC1LLF,NDPC1LMF,NDPC1LUF
+NDVC1,18,STO,SanJoaquin,d,NF Stanislaus - Diversion Dam,2,NA,2036,NA,NA,NA,NA
+NFDC1,18,STO,American,d,NF American - North Fork Dam,2,187,1491,NA,NFDC1HLF,NFDC1HUF,NA
+NFEC1,18,STO,FeatherYuba,d,EB of NF Feather,2,698,1488,NA,NFEC1LLF,NFEC1LUF,NA
+NHGC1,18,STO,N_SanJoaquin,d,Calaveras - New Hogan Dam,0,NA,NA,NA,NA,,NA
+NILC1,18,MTR,CentralCoast,d,Alameda Ck - Niles,0,NA,NA,NA,NA,,NA
+NIMC1,18,STO,American,d,American - Nimbus Dam,0,NA,NA,NA,NA,,NA
+NIXN2,16,REV,EastSierra,d,Truckee nr Nixon,0,NA,NA,NA,NA,,NA
+NMFC1,18,STO,American,d,NF MF American R nr Foresthill,2,389,1504,NA,NMFC1HLF,NMFC1HUF,NA
+NMSC1,18,STO,SanJoaquin,d,Stanislaus - New Melones Dam,3,155,1493,2408,NMSC1LLF,NMSC1LMF,NMSC1LUF
+NRWC1,18,LOX,SouthernCalifornia,f,Santa Ynez - Narrows,0,NA,NA,NA,NA,,NA
+NSWC1,18,STO,SanJoaquin,d,Highland Ck - New Spicer Meadows Rsvr,2,NA,1949,NA,NA,NA,NA
+NVRC1,18,EKA,RussianNapa,f,Navarro - Navarro,0,NA,NA,NA,NA,,NA
+NWMC1,18,HNX,SanJoaquin,f,San Joaquin - Newman,0,NA,NA,NA,NA,,NA
+OBBC1,18,STO,SanJoaquin,f,Stanislaus - Orange Blossom Br,0,NA,NA,NA,NA,,NA
+ONSC1,18,MFR,Klamath,f,Klamath - Orleans,2,108,1457,NA,ONSC1LLF,ONSC1LUF,NA
+ORDC1,18,STO,FeatherYuba,d,Feather - Oroville Dam,2,249,1484,NA,ORDC1LLF,ORDC1LUF,NA
+OREC1,18,STO,SanJoaquin,d,Orestimba Ck - Newman,0,NA,NA,NA,NA,,NA
+ORFC1,18,STO,UpperSacramento,f,Sacramento - Ord Ferry,0,NA,NA,NA,NA,,NA
+ORIC1,18,EKA,NorthCoast,f,Redwood Ck - Orick,0,NA,NA,NA,NA,,NA
+OURC1,18,STO,FeatherYuba,d,MF Yuba - Our House,2,597,1442,NA,OURC1LLF,OURC1LUF,NA
+OWCC1,18,HNX,SanJoaquin,d,Owens Ck - Owens Dam,0,NA,NA,NA,NA,,NA
+PALN2,16,LKN,Humboldt,f,Humboldt - Palisade,2,1472,2111,NA,PALN2LLF,PALN2LUF,NA
+PATC1,18,STO,SanJoaquin,f,San Joaquin - Patterson,0,NA,NA,NA,NA,,NA
+PCGC1,18,STO,CachePutah,d,Putah Ck - Guenoc,0,NA,NA,NA,NA,,NA
+PCNC1,18,SGX,SouthernCalifornia,d,Palm Canyon Creek near Palm Springs,2,205,1765,NA,PCNC1HLF,PCNC1HUF,NA
+PFTC1,18,HNX,Tulare,d,Kings - Pine Flat Dam,3,215,1436,2262,PFTC1HLF,PFTC1HMF,PFTC1HUF
+PHOC1,18,MTR,CentralCoast,d,Pacheco Ck - Dunneville,0,NA,NA,NA,NA,,NA
+PIIC1,18,MTR,CentralCoast,d,San Benito - Willow Creek,0,NA,NA,NA,NA,,NA
+PITC1,18,STO,UpperSacramento,d,Pit River blo Montgomery Ck,2,325,1677,NA,PITC1LLF,PITC1LUF,NA
+PLBC1,18,STO,NorthCoast,d,Eel R - Lk Pillsbury,2,534,1509,NA,PLBC1HLF,PLBC1HUF,NA
+PLGC1,18,STO,FeatherYuba,d,NF Feather - Pulga,2,394,1485,NA,PLGC1LLF,PLGC1LUF,NA
+PLLC1,18,STO,FeatherYuba,d,NF Feather - Lk Almanor,2,1367,1499,NA,PLLC1HLF,PLLC1HUF,NA
+PLYC1,18,REV,UpperSacramento,d,SF Pit  nr Likely,2,1378,1677,NA,PLYC1HLF,PLYC1HUF,NA
+PNEC1,18,MTR,SanJoaquin,d,Panoche Ck - Interstate 5,0,NA,NA,NA,NA,,NA
+POHC1,18,HNX,SanJoaquin,f,Merced R - Pohono Bridge,3,1177,1430,2298,POHC1LLF,POHC1LMF,POHC1LUF
+PRBC1,18,LOX,CentralCoast,f,Salinas - Paso Robles,0,NA,NA,NA,NA,,NA
+PSRC1,16,REV,EastSierra,d,Prosser Ck - Prosser Ck Dam,2,1710,1816,NA,PSRC1HLF,PSRC1HUF,NA
+PTTC1,18,STO,SanJoaquin,d,Del Puerto Ck - Patterson,0,NA,NA,NA,NA,,NA
+PYMC1,18,LOX,SouthernCalifornia,d,Piru Ck - Pyramid Lake,0,NA,NA,NA,NA,,NA
+RADC1,18,EKA,NorthCoast,d,Ruth Lake,0,NA,NA,NA,NA,,NA
+RBBC1,18,STO,American,d,Rubicon R at Rockbound Tunnel Inlet,0,NA,NA,NA,NA,,NA
+RCVC1,18,STO,UpperSacramento,d,Cherokee Canal nr Richvale,0,NA,NA,NA,NA,,NA
+RDGC1,18,STO,UpperSacramento,d,Clear Ck nr Igo,0,NA,NA,NA,NA,,NA
+RDRC1,18,MTR,CentralCoast,f,Carmel - Robles Del Rio,0,NA,NA,NA,NA,,NA
+RIPC1,18,STO,SanJoaquin,d,Stanislaus - Ripon,0,NA,NA,NA,NA,,NA
+RMKC1,18,MTR,RussianNapa,d,Maacama Ck - Kellogg,0,NA,NA,NA,NA,,NA
+RMSC1,18,STO,CachePutah,f,Cache Ck - Rumsey,0,NA,NA,NA,NA,,NA
+ROCN2,16,LKN,Humboldt,d,Rock Ck - Battle Mountain,2,1424,2097,NA,ROCN2HLF,ROCN2HUF,NA
+ROLC1,18,STO,FeatherYuba,d,Bear R - Rollins Reservoir,2,601,1499,NA,ROLC1HLF,ROLC1HUF,NA
+RRGC1,18,STO,American,d,SF Rubicon River blo Gerle Ck,0,NA,NA,NA,NA,,NA
+RUFC1,18,STO,American,d,Rubicon R nr Foresthill,2,359,1502,NA,RUFC1LLF,RUFC1LUF,NA
+RVBC1,18,STO,LowerSacramento,f,Sacramento Delta - Rio Vista Bridge,0,NA,NA,NA,NA,,NA
+SACC1,18,STO,LowerSacramento,f,Sacramento - Sacramento I Street,0,NA,NA,NA,NA,,NA
+SAMC1,18,STO,LowerSacramento,f,American - H Street,0,NA,NA,NA,NA,,NA
+SBRC1,18,MFR,Klamath,d,Salmon - Somes bar,2,148,1464,NA,SBRC1HLF,SBRC1HUF,NA
+SCBC1,18,STO,FeatherYuba,d,Spanish Ck - Keddie,2,954,1497,NA,SCBC1HLF,SCBC1HUF,NA
+SCNO3,18,MFR,Klamath,d,Sycan R - Beatty,2,1316,1490,NA,SCNO3HLF,SCNO3HUF,NA
+SCOC1,18,EKA,NorthCoast,f,Eel - Scotia,0,NA,NA,NA,NA,,NA
+SCPC1,18,LOX,SouthernCalifornia,f,Santa Clara - Piru,0,NA,NA,NA,NA,,NA
+SCRN2,16,REV,EastSierra,d,Steamboat Ck - Steamboat,2,1402,1809,NA,SCRN2LLF,SCRN2LUF,NA
+SCSC1,18,HNX,Tulare,d,Tule - Success Dam,3,188,1448,2406,SCSC1LLF,SCSC1LMF,SCSC1LUF
+SCWN2,16,REV,EastSierra,d,Steamboat Ck - Sparks,2,1335,1805,NA,SCWN2LLF,SCWN2LUF,NA
+SDDC1,18,MTR,CentralCoast,d,Salinas River - Soledad,0,NA,NA,NA,NA,,NA
+SEIC1,18,MFR,Klamath,f,Klamath - Seiad Valley,2,397,1408,NA,SEIC1LLF,SEIC1LUF,NA
+SESC1,18,LOX,SouthernCalifornia,f,Sespe Ck - Fillmore,0,NA,NA,NA,NA,,NA
+SFCC1,18,MTR,CentralCoast,d,San Francisquito Ck - Stanford,0,NA,NA,NA,NA,,NA
+SFYC1,18,EKA,Klamath,d,SF Trinity nr Hyampon,2,390,1479,NA,SFYC1HLF,SFYC1HUF,NA
+SGEC1,18,STO,UpperSacramento,d,Stony Ck - Stony Gorge Dam,2,219,1525,NA,SGEC1LLF,SGEC1LUF,NA
+SGNC1,16,REV,EastSierra,d,Saghen Ck - Truckee,0,NA,NA,NA,NA,,NA
+SHDC1,18,STO,UpperSacramento,d,Sacramento - Shasta Dam,0,NA,NA,NA,NA,,NA
+SHEC1,18,MTR,RussianNapa,f,Napa - St. Helena,0,NA,NA,NA,NA,,NA
+SHRC1,18,SGX,SouthernCalifornia,d,San Luis Rey - Shearer Crossing,0,NA,NA,NA,NA,,NA
+SKPC1,18,STO,CachePutah,d,Scotts Ck - Lakeport nr,0,NA,NA,NA,NA,,NA
+SKRC1,18,HNX,Tulare,d,SF Kern - Onyx,3,877,1370,2315,SKRC1HLF,SKRC1HMF,SKRC1HUF
+SLOC1,18,SGX,SouthernCalifornia,f,San Luis Rey R at Oceanside,0,NA,NA,NA,NA,,NA
+SLUC1,18,LOX,SouthernCalifornia,d,Salsipudes Ck - Lompoc,0,NA,NA,NA,NA,,NA
+SMHC1,18,SGX,SouthernCalifornia,d,Santa Margarita - Temecula,0,NA,NA,NA,NA,,NA
+SNRC1,18,MTR,CentralCoast,d,San Antonio - San Antonio Dam,0,NA,NA,NA,NA,,NA
+SOLC1,18,MTR,CentralCoast,d,Arroyo Seco - Soledad,0,NA,NA,NA,NA,,NA
+SOSC1,18,STO,N_SanJoaquin,d,MF Cosumnes - Somerset,2,505,1512,NA,SOSC1HLF,SOSC1HUF,NA
+SPRC1,18,MTR,CentralCoast,f,Salinas River nr Spreckels,0,NA,NA,NA,NA,,NA
+SREC1,18,SGX,SouthernCalifornia,d,Santa Ana - E St,2,291,2332,NA,SREC1LLF,SREC1LUF,NA
+SRWC1,18,SGX,SouthernCalifornia,d,Santa Ana - Mentone,2,627,2379,NA,SRWC1HLF,SRWC1HUF,NA
+SSAC1,18,MTR,RussianNapa,d,Santa Rosa Ck - Santa Rosa,0,NA,NA,NA,NA,,NA
+SSQC1,18,LOX,SouthernCalifornia,d,Sisquoc R - Sisquoc,0,NA,NA,NA,NA,,NA
+STPC1,16,REV,EastSierra,d,Little Truckee - Stampede Dam,2,1742,1815,NA,STPC1LLF,STPC1LUF,NA
+STVC1,18,HNX,SanJoaquin,f,Merced - Stevinson,0,NA,NA,NA,NA,,NA
+STWN2,16,REV,EastSierra,f,Carson Rvr - Carson City,2,1409,2110,NA,STWN2LLF,STWN2LUF,NA
+SUAC1,18,STO,FeatherYuba,d,SF Yuba - Lk Spaulding,0,NA,NA,NA,NA,,NA
+SUSC1,18,REV,EastSierra,f,Susan River - Susanville,2,1292,1816,NA,SUSC1HLF,SUSC1HUF,NA
+SVCC1,18,STO,American,d,Silver Ck blo Camino Dam,2,836,1511,NA,SVCC1LLF,SVCC1LUF,NA
+SVIC1,18,SGX,SouthernCalifornia,d,San Vicente Ck - San Vicente Dam,0,NA,NA,NA,NA,,NA
+SVWC1,18,SGX,SouthernCalifornia,d,Silverwood Lk - Hesperia,0,NA,NA,NA,NA,,NA
+TAHC1,16,REV,EastSierra,d,Truckee - Tahoe City,0,NA,NA,NA,NA,,NA
+TBDN2,16,REV,EastSierra,d,Truckee R blw Derby Dam,0,NA,NA,NA,NA,,NA
+TCCC1,18,EKA,Klamath,d,Trinity - Coffee Ck above,2,779,1525,NA,TCCC1HLF,TCCC1HUF,NA
+TCRC1,18,STO,UpperSacramento,d,Thomes Creek - Paskenta,2,213,1525,NA,TCRC1HLF,TCRC1HUF,NA
+TEHC1,18,STO,UpperSacramento,f,Sacramento - Tehama,2,58,1525,NA,TEHC1LLF,TEHC1LUF,NA
+TEKC1,18,SGX,SouthernCalifornia,d,Temecula Ck - Aguanga,0,NA,NA,NA,NA,,NA
+TESC1,18,MTR,CentralCoast,d,Tres Pinos Ck - Tres Pinos,0,NA,NA,NA,NA,,NA
+THTC1,18,STO,N_SanJoaquin,f,Mokelumne - Benson Ferry,0,NA,NA,NA,NA,,NA
+TIMC1,18,SGX,SouthernCalifornia,d,San Timoteo Ck - Loma Linda,0,NA,NA,NA,NA,,NA
+TMDC1,18,HNX,Tulare,d,Kaweah - Terminus Dam,3,154,1471,2411,TMDC1LLF,TMDC1LMF,TMDC1LUF
+TRCC1,16,REV,EastSierra,f,Truckee nr Truckee,0,NA,NA,NA,NA,,NA
+TRJC1,18,EKA,Klamath,d,Trinity - Junction City,2,442,1464,NA,TRJC1LLF,TRJC1LUF,NA
+TRRN2,16,REV,EastSierra,f,Truckee - Reno,2,1355,1804,NA,TRRN2LLF,TRRN2LUF,NA
+TSLC1,18,SGX,SouthernCalifornia,d,Temescal Ck abv Main Street,0,NA,NA,NA,NA,,NA
+TVRC1,18,HNX,Tulare,d,SF Tule - Reservation Boundary,3,292,1506,2407,TVRC1HLF,TVRC1HMF,TVRC1HUF
+TWDC1,18,LOX,SouthernCalifornia,d,Cuyama - Twitchell Dam,0,NA,NA,NA,NA,,NA
+UKAC1,18,EKA,RussianNapa,d,Russian R - Ukiah,0,NA,NA,NA,NA,,NA
+UNVC1,18,STO,American,d,Silver Ck - Union Valley Reservoir,2,1383,1511,NA,UNVC1HLF,UNVC1HUF,NA
+VCAC1,18,LOX,SouthernCalifornia,f,Santa Clara - Victoria Avenue,0,NA,NA,NA,NA,,NA
+VISN2,16,REV,EastSierra,f,Truckee - Vista,0,NA,NA,NA,NA,,NA
+VLKC1,18,SGX,SouthernCalifornia,d,Temecula Ck - Vail Lake,0,NA,NA,NA,NA,,NA
+VNSC1,18,STO,SanJoaquin,f,San Joaquin - Vernalis,0,NA,NA,NA,NA,,NA
+VRVC1,18,LOX,SouthernCalifornia,f,Ventura River nr Ventura,0,NA,NA,NA,NA,,NA
+VWBC1,18,STO,UpperSacramento,f,Sacramento - Vina-Woodson Bridge,0,NA,NA,NA,NA,,NA
+WADN2,16,REV,EastSierra,f,Truckee R at Wadsworth,0,NA,NA,NA,NA,,NA
+WALN2,16,REV,EastSierra,d,Walker R nr Wabuska,0,NA,NA,NA,NA,,NA
+WARC1,18,HNX,SanJoaquin,d,Warthan Ck - Coalinga,0,NA,NA,NA,NA,,NA
+WBGC1,18,STO,FeatherYuba,d,WB Feather - Magalia,2,482,1503,NA,WBGC1HLF,WBGC1HUF,NA
+WFMC1,18,SGX,SouthernCalifornia,d,WF Mojave - Hesperia,0,NA,NA,NA,NA,,NA
+WHSC1,18,STO,UpperSacramento,d,Whiskey Ck - Whiskeytown Dam,0,NA,NA,NA,NA,,NA
+WHWC1,18,SGX,SouthernCalifornia,d,Whitewater River at Mecca,2,-67,1749,NA,WHWC1LLF,WHWC1LUF,NA
+WIPC1,18,SGX,SouthernCalifornia,d,Whitewater at Windy Point,2,316,1752,NA,WIPC1HLF,WIPC1HUF,NA
+WKAO3,18,MFR,Klamath,d,Williamson R nr Agency,2,1366,1476,NA,WKAO3HLF,WKAO3HUF,NA
+WMSO3,18,MFR,Klamath,f,Williamson - blo Sprague River,2,1267,1502,NA,WMSO3LLF,WMSO3LUF,NA
+WOOC1,16,REV,EastSierra,f,WF Carson - Woodfords,0,NA,NA,NA,NA,,NA
+WSDC1,18,MTR,RussianNapa,d,Dry Ck - Warm Springs Dam,0,NA,NA,NA,NA,,NA
+WTIC1,18,SGX,SouthernCalifornia,d,Whitewater River at Indio,0,NA,NA,NA,NA,,NA
+WWBC1,16,REV,EastSierra,f,West Walker blw Little Walker,2,2007,2414,NA,WWBC1HLF,WWBC1HUF,NA
+WWHN2,16,REV,EastSierra,d,W Walker nr Hudson,2,1386,2410,NA,WWHN2LLF,WWHN2LUF,NA
+WWIC1,18,SGX,SouthernCalifornia,d,Whitewater River at Rancho Mirage,2,51,1698,NA,WWIC1LLF,WWIC1LUF,NA
+YDRC1,18,SGX,SouthernCalifornia,f,Santa Margarita - Ysidora,0,NA,NA,NA,NA,,NA
+YOLC1,18,STO,CachePutah,d,NA,0,NA,NA,NA,NA,,NA
+YREC1,18,MFR,Klamath,d,Shasta nr Yreka,2,625,1454,NA,YREC1HLF,YREC1HUF,NA
+YTLC1,18,SGX,SouthernCalifornia,d,Lytle Ck nr Colton,0,NA,NA,NA,NA,,NA
+YUBC1,18,STO,FeatherYuba,f,Feather - Yuba City,0,NA,NA,NA,NA,,NA
