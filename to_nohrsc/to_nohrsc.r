@@ -1,6 +1,6 @@
 
 
-#{
+{
 rm(list = ls())
 rstudioapi::getActiveDocumentContext
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
@@ -116,9 +116,9 @@ basins <- basins %>% transmute(NAME = Basin, RFC, HUC, CWA, FCST_GP, CH5_ID = Ba
                                )
 
 
-#}
+}
 
-st_write(basins, "out3.shp")
+st_write(basins, "out4.shp")
 
 basin_summ <- basins %>% as.data.frame() %>% select(-geometry)
 write_csv(basin_summ, "basins_to_nohrsc.csv")
